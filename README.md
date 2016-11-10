@@ -4,10 +4,6 @@
 
 Extra functionality for WordPress.
 
-## Contributing
-
-Everyone is welcome to contribute with patches, bug-fixes and new features.
-
 ## License
 
 MIT © Isotop
