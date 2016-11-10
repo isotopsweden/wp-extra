@@ -4,6 +4,12 @@
 
 Extra functionality for WordPress.
 
+## Installation
+
+```
+composer require isotopsweden/wp-extra
+```
+
 ## License
 
 MIT © Isotop
